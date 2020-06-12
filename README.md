@@ -1,5 +1,5 @@
 # BL/QFP Code Club Pandas tutorial - slides and notebooks
-
+[![Link to notebooks on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/harryjmoss/BLPandasTutorial/master)
 ## Slides
 Presentation slides can be found in [slides](slides/)
 
