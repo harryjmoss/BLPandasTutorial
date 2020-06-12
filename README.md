@@ -10,7 +10,8 @@ Click the link at the top of this README
 #### To run locally
 *These instructions are also provided in slides/PandasOverview_notebook.ipynb*
 
-*The following commands should be entered in a terminal of your choice!*
+*The following commands should be entered in a terminal of your choice!*  
+
 Ensure you have Python 3.X installed and create a virtual environment, where `$envname` is any name you would like (without a dollar sign!)
 ```
 python -m venv $envname
