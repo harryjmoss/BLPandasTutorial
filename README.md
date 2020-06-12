@@ -5,7 +5,7 @@
 The notebooks contained in this repository can either be run locally on your own computer or through [Binder](https://mybinder.org/), where they are hosted remotely and can be run by any user with no pre-installation required. 
 
 #### To run remotely through Binder 
-Click the link at the top of this README - this may take a while to load but avoids any installation described below!
+Click the 'launch binder' link at the top of this README - this may take a while to load but avoids any installation described below!
 
 #### To run locally
 *These instructions are also provided in slides/PandasOverview_notebook.ipynb*
