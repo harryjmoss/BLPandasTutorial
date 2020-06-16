@@ -36,7 +36,7 @@ Launch jupyter notebooks (launches a graphical file explorer similar to windows 
 jupyter notebook
 ```
 You'll now (hopefully) be greeted with an image like this:
-<img src="../images/NotebookPage.png">
+<img src="images/NotebookPage.png">
 
 ### Slides
 Presentation slides can be found in [slides](slides/)
